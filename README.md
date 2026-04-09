@@ -93,7 +93,7 @@ Project_PRG282_Final/
 1. Clone the repository:
 
 ```bash
-[git clone https://github.com/YOUR_USERNAME/SuperheroDatabaseSystem.git](https://github.com/steven-riaan-piek/SuperheroDatabaseSystem.git)
+git clone https://github.com/steven-riaan-piek/SuperheroDatabaseSystem.git
 cd Project_PRG282_Final
 
 ```
