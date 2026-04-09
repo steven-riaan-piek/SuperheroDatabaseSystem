@@ -75,6 +75,9 @@ Project_PRG282_Final/
 
 ---
 
+
+---
+
 ## ⚡ Setup Instructions
 
 ### 📋 Prerequisites
@@ -89,12 +92,68 @@ Project_PRG282_Final/
 
 1. Clone the repository:
 
-git clone [https://github.com/AdinGreyling/SuperheroDatabaseSystem.git]
+```bash
+git clone https://github.com/YOUR_USERNAME/SuperheroDatabaseSystem.git
 cd Project_PRG282_Final
-Open the solution in Visual Studio:
 
-2.start Project_PRG282/Project_PRG282.sln
-Build and run the application:
+```
 
-3.Press F5 or click "Start Debugging"
-The application will compile and launch
+2. Open the solution in Visual Studio:
+```bash
+Project_PRG282/Project_PRG282.sln
+```
+
+3. Build and run the application:
+Press F5 or click Start Debugging
+
+▶️ Usage
+1. Adding Heroes
+Fill in the form fields and click Add
+2. Viewing Heroes
+Click View All
+3. Updating Heroes
+Select a row → edit → click Update
+
+📄 File Formats
+🦸 superheroes.txt
+
+Each line contains comma-separated values:
+```bash
+HeroID,Name,Age,Superpower,ExamScore,Rank,ThreatLevel
+```
+📊 summary.txt
+
+Contains formatted statistics:
+
+Total number of superheroes
+Average age and exam score
+Count of heroes per rank
+Timestamp
+
+
+🔁 Version Control
+
+This project uses Git with the following structure:
+
+Initial project setup
+Feature commits (add, update, delete, report)
+Clear and meaningful commit messages
+
+⚠️ Error Handling
+
+The application includes error handling for:
+
+File I/O operations
+Input validation (age, exam score ranges)
+Data parsing
+User input validation
+
+👨‍💻 Development Team
+
+This project was developed as part of PRG282 coursework for the One Kick Heroes Academy system.
+
+📜 License
+
+This project is developed for educational purposes.
+
+Built with C# Windows Forms for the One Kick Heroes Academy
