@@ -89,6 +89,12 @@ Project_PRG282_Final/
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/YOUR_USERNAME/SuperheroDatabaseSystem.git
+git clone [https://github.com/AdinGreyling/SuperheroDatabaseSystem.git]
 cd Project_PRG282_Final
+Open the solution in Visual Studio:
+
+2.start Project_PRG282/Project_PRG282.sln
+Build and run the application:
+
+3.Press F5 or click "Start Debugging"
+The application will compile and launch
