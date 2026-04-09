@@ -139,6 +139,8 @@ Initial project setup
 Feature commits (add, update, delete, report)
 Clear and meaningful commit messages
 
+---
+
 ⚠️ Error Handling
 
 The application includes error handling for:
@@ -148,12 +150,18 @@ Input validation (age, exam score ranges)
 Data parsing
 User input validation
 
+---
+
 👨‍💻 Development Team
 
 This project was developed as part of PRG282 coursework for the One Kick Heroes Academy system.
 
+---
+
 📜 License
 
 This project is developed for educational purposes.
+
+---
 
 Built with C# Windows Forms for the One Kick Heroes Academy
